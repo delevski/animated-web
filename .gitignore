@@ -1,0 +1,4 @@
+.env.*
+*.log
+*.aidev.instructions.md
+*.aidev.task.json
